@@ -1,7 +1,7 @@
 {
   "name": "router-bridge",
-  "version": "1.0.1",
-  "description": "Lightweight bridge for controlling navigation in single-page applications.",
+  "version": "1.0.2",
+  "description": "Lightweight bridge for triggering client-side navigation from external contexts.",
   "author": "Ofek Ashery <ofek.ashery@gmail.com>",
   "license": "MIT",
   "keywords": [

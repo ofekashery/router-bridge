@@ -1,6 +1,6 @@
 # Router Bridge
 
-Trigger client-side navigation from outside the React context. Enabling seamless navigation without full page reloads.
+Lightweight bridge for triggering client-side navigation from external React contexts. Enabling seamless navigation without full page reloads.
 
 ## Getting Started
 Install the package:
