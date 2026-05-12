@@ -18,6 +18,10 @@
   "files": [
     "dist/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ofekashery/router-bridge.git"
+  },
   "scripts": {
     "build": "tsc"
   },
